@@ -27,3 +27,4 @@ jobs:
           FB_EMAIL: ${{ secrets.FB_EMAIL }}
           FB_PASSWORD: ${{ secrets.FB_PASSWORD }}
         run: node bot.js
+        
