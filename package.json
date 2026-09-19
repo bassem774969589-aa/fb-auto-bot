@@ -1,0 +1,12 @@
+{
+  "name": "fb-auto-accept",
+  "version": "1.0.0",
+  "description": "Automated Facebook friend request accepter",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "puppeteer": "^23.0.0"
+  }
+}
